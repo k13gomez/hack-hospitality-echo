@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "type",
+          "type": "user_types"
+        }
+      ],
+      "intent": "getSpecialIntent"
+    },
+    {
+      "intent": "getCancelledIntent"
+    },
+    {
+      "intent": "getRenewalRateIntent"
+    },
+    {
+      "intent": "getOrdersIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
