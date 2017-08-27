@@ -1,0 +1,17 @@
+getSpecialIntent orders that were placed by {type}
+getSpecialIntent {type} orders placed
+getSpecialIntent how many {type} orders were placed
+getSpecialIntent {type}
+getSpecialIntent how many {type} orders this week
+getCancelledIntent how many cancelled orders were there
+getCancelledIntent cancelled orders
+getCancelledIntent cancelled orders this week
+getOrdersIntent how much revenue did we make this week
+getOrdersIntent how many orders were placed this week
+getOrdersIntent orders placed this week
+getRenewalRateIntent what was the renewal rate this week
+getRenewalRateIntent renewal rate
+getRenewalRateIntent what was renewal percent this week
+getRenewalRateIntent rate of renewals
+getRenewalRateIntent renewal percent
+getRenewalRateIntent percent of renewals
